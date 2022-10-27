@@ -54,7 +54,7 @@ read user_name
 [ $user_name == 'bob' ] && echo "user is bob"
 ```
 
-# Testing for Partial String Values
+## Testing for Partial String Values
 ```bash
 declare -l browser
 read browser
